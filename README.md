@@ -8,7 +8,7 @@ I'm Lester, Software Engineer from <b>Muscat, Oman</b> <img src="https://image.f
 
 - 🔭 I’m currently working on Angular & Spring
 - 📫 How to reach me: lestercardoz11@gmail.com
-- 😄 Personal Portfolio: [lestercardoz](www.lestercardoz.tech)
+- 😄 Personal Portfolio: [lestercardoz.tech](https://www.lestercardoz.tech)
 - ⚡ Fun fact: I'm a huge tottenham hotspurs fan #ComeOnYouSpurs
 
 
