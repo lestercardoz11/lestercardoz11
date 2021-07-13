@@ -70,6 +70,6 @@ I'm Lester, Software Engineer from <b>Muscat, Oman</b> <img src="https://image.f
 
 #### Statistics
 
-[![Lester's GitHub stats](https://github-readme-stats.vercel.app/api?username=lestercardoz11&count_private=true&show_icons=true)](https://github.com/lestercardoz11/lestercardoz11.github.io)
+[![Lester's GitHub stats](https://github-readme-stats.vercel.app/api?username=lestercardoz11&count_private=true&show_icons=true)](https://github.com/lestercardoz11/lestercardoz.tech)
 
-[![Lester's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=stark1996&layout=compact)](https://github.com/stark1996/lestercardoz11.github.io)
+[![Lester's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=stark1996&layout=compact)](https://github.com/lestercardoz11/lestercardoz.tech)
