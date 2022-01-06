@@ -2,7 +2,7 @@
 
 <p>Nice to meet you! 
 </br>
-I'm Lester, Software Engineer from <b>Muscat, Oman</b> <img src="https://image.flaticon.com/icons/svg/197/197635.svg" width="15"/>, currently living in <b>Mumbai, India</b> <img src="https://image.flaticon.com/icons/svg/197/197419.svg" width="15"/>. </p>
+I'm Lester, Software Engineer from <b>Muscat, Oman</b>, currently living in <b>Mumbai, India</b>. </p>
 
 <img src="https://emojis.slackmojis.com/emojis/images/1542340462/4965/dabbing.gif?1542340462" width="40"/>
 
